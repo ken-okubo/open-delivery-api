@@ -98,14 +98,14 @@ curl -X POST http://localhost:8000/orders/ -H "Content-Type: application/json" -
 
 ---
 
-## 🤝 Contributing | Contribuindo
+## 🤝 Contributing / Contribuindo
 
 Suggestions and improvements are welcome!  
 Sugestões e melhorias são bem-vindas!
 
 ---
 
-## 🧠 Inspiration | Inspiração
+## 🧠 Inspiration / Inspiração
 
 I started this project to dive deeper into the Open Delivery standard and improve my skills with FastAPI, SQLAlchemy, Docker, and async Python.
 It’s also a great opportunity to simulate a real-world API based on something I’m working on with iHungry company.
