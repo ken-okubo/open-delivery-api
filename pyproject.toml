@@ -1,0 +1,16 @@
+[tool.black]
+line-length = 79
+exclude = '''
+/(
+    alembic/env\.py
+)/
+'''
+
+[tool.ruff]
+line-length = 79
+select = ["E", "F", "Q"]
+fix = true
+exclude = ["migrations", "__pycache__"]
+
+[tool.ruff.format]
+quote-style = "single"
