@@ -110,8 +110,6 @@ Sugestões e melhorias são bem-vindas!
 I started this project to dive deeper into the Open Delivery standard and improve my skills with FastAPI, SQLAlchemy, Docker, and async Python.
 It’s also a great opportunity to simulate a real-world API based on something I’m working on with iHungry company.
 
--
-
 Comecei este projeto para me aprofundar no padrão Open Delivery e melhorar minhas habilidades com FastAPI, SQLAlchemy, Docker e Python assíncrono.
 Também é uma boa oportunidade para simular uma API real baseada em algo que estou desenvolvendo com a empresa iHungry.
 
